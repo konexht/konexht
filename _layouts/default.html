@@ -51,10 +51,13 @@
                             </p>
                         </div>
                         <div class="downloadButtonsContainer">
-                            <a class="businessLink" href="{{site.business_store}}"><img class="businessStore" src="assets/telegramhandle.png"></a>
+                            {% if site.playstore_link %}
+                                <a class="playStoreLink" href="{{site.playstore_link}}"><img class="playStore" src="assets/playstore.png"></a>
+                            {% endif %}
+                            <a class="businessStoreLink" href="{{site.businessstore_link}}"><img class="businessStore" src="assets/telegramhandle.png"></a>
                         </div>
                     </div>
-                    {% include services.html %}
+                    {% include features.html %}
                     {% include footer.html %}
                 </div>
             </div>
