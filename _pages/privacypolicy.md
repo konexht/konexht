@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Konfidansyalite
-include_in_header: true
+include_in_header: false
 ---
 
 **Dènye mizajou**  
