@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Lansman Ofisyèl
-Nou lanse ofisyèlman le 18 novanm 2022.
+Nou lanse ofisyèlman le 15 novanm 2022.
 
 <br>
 
