@@ -35,7 +35,7 @@ youtube_username                          : Konex
 services                                  :
 
   - title                                 : Konsiltasyon enfòmatik 
-    description                           : Kote w ye, nou la pou ou, nou rapid e nou pa pè pwoblèm.
+    description                           : Kote w ye, nou la pou ou. Nou rapid e sèvis nou yo de kalite. Sa w ap tann pou w kontakte n?
     fontawesome_icon_name                 : magic
     
   - title                                 : Fòmasyon a distans
@@ -47,7 +47,7 @@ services                                  :
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Sekirite 
-    description                           : Malè rive sanzatann, nou ka ba w zouti dijital pou sizoka oumenm oswa yon manm fanmi w ta twouve l an difikilte.
+    description                           : Malè rive sanzatann, nou ka ba w zouti dijital pou sizoka ou menm oswa yon manm fanmi w ta twouve l an difikilte.
     fontawesome_icon_name                 : sync
 
   - title                                 : Edikasyon
@@ -55,11 +55,11 @@ services                                  :
     fontawesome_icon_name                 : adjust
   
   - title                                 : Konsepsyon grafik
-    description                           : Nou renmen bèl imaj byen prezante sou kèlkeswa fòm lan. Nou vle pou w satisfè lè w mande nou yon konsepsyon grafik.
+    description                           : Ou renmen bèl imaj byen prezante sou divès kalite fòma. Nou vle pou w satisfè lè w mande nou yon konsepsyon grafik.
     fontawesome_icon_name                 : star
 
   - title                                 : Kreyasyon ak trètman tèks
-    description                           : Depi se tèks, sou nenpòt sijè a, nou ka kreye l, trete l, korije l, tradui l, bref lage l nan men nou, ou pap regrèt.
+    description                           : Depi se tèks, sou prèske tout sijè, nou ka ede w kreye l, trete l, korije l epi tradui l. Brèf, lage l nan men nou e ou p ap regrèt sa!
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Asistans pou ranpli dosye
