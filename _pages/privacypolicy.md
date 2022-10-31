@@ -10,16 +10,14 @@ include_in_header: false
 # Règ sou enfòmasyon konfidansyèl 
 ## Enfòmasyon pèsonèl
 Konex sèvi ak enfòmasyon pèsonèl yon moun ba l pou pwodui yon travay pou li, 
-sèlman nan objektif yo te di moun nan y ap sèvi avè l la e enfòmasyon sa yo ap efase oplis 30 jou apre moun nan fin resevwa travay li te bay fe a. 
+sèlman nan objektif yo te di moun nan y ap sèvi avè l la e enfòmasyon sa yo ap efase oplis 30 jou apre moun nan ta mande sa. 
 Konex pap bay pèsonn enfòmasyon sa yo amwenske sa nesesè pou l ka rive satisfè demann moun nan oswa li gen konviksyon si l devwale enfòmasyon sa yo se yon bagay ki nesesè pou l sastisfè yon seri lwa oswa yon seri règleman oswa pou l lite kont fwod oswa pou l detekte fwod, pou pwoblèm sekirite, oswa pou pwoblèm teknik. 
 Yo pap ni vann, ni fè tranzaksyon ni fè biznis ak okenn enfòmasyon pèsonèl nan kèlkeswa sikonstans lan.
 
-<br>
 
 ## Idantifyan
 Konex ap sèvi ak idantifyan tankou adrès imel, nimewo WhatsApp, non itilizatè ou oswa nimewo telefòn ou bay la pou yo kontakte w konsènan sèvis ou te mande a. 
 
-<br>
 
 ## Script
 Konex sèvi ak Script pou yo amelyore fason yo ofri sèvis yo. 
