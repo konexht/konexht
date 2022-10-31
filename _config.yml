@@ -5,6 +5,7 @@ page_title                                : KONEX                               
 business_id                                : 1234793120                                # Required. Enter iOS business ID to automatically populate name, price and icons (e.g. 718043190).
 business_country                           : ht                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
+business_whatsapp_link                    : https://wa.me/50932716969?text=Mwen%20enterese%20nan%20Konex 
 business_telegram_link                    : https://t.me/konexht                      # Automatically populates if not set and if iOS business ID is set. Otherwise enter manually.
 presskit_download_link                    :                                   # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
