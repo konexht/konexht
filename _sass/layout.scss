@@ -333,19 +333,33 @@ nav > ul li a:active {
 	
 } 
 
-.downloadButtonsContainer {
+.whatsappButtonsContainer {
 	display: inline-block;
 	margin-top: 42px;
 	filter: $drop-shadow;
 }
 
+.telegramButtonsContainer {
+	display: inline-block;
+	margin-top: 42px;
+	filter: $drop-shadow;
+
 @media only screen and (max-width: 992px) {
 
-	.downloadButtonsContainer {
+	.whatsappButtonsContainer {
+		text-align: center;
+	}
+	
+}
+	
+@media only screen and (max-width: 992px) {
+
+	.telegramButtonsContainer {
 		text-align: center;
 	}
 	
 } 
+
 
 .playStore {
 	height: 75px;
