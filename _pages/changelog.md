@@ -9,11 +9,8 @@ Nou lanse ofisyèlman 15 novanm 2022.
 
 <br>
 
-# Lis sevis yo
-Kreyasyon ak koreksyon kontni pou CV, Lèt motivasyon, Fich, Nòt, Fomilè ankèt ak sondaj
-Kreyasyon logo, flyer, banner, Retouch foto
-Fòmasyon sou itilizasyon avanse telefòn entèlijan, sekirite sou rezo sosyal
-Kreyasyon ak mentnans sit entènèt, sistèm kominikasyon otomatize ak sekirite pou biznis
+# Lis sèvis yo
+
 # **Rezèvasyon**
-Ou ka anrejistre kòm premye kliyan nou avèk lyen sa a: [https://forms.gle/hqifBG7fb9M7EKer6](https://forms.gle/hqifBG7fb9M7EKer6)
+Ou ka anrejistre kòm premye kliyan nou avèk lyen sa a: [https://forms.gle/Tcy7x1BzwF9qihEr9](https://forms.gle/Tcy7x1BzwF9qihEr9)
 
